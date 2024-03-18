@@ -4,7 +4,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/MohdZaidRapid",
-  resume: "https://app.luminpdf.com/viewer/6549391159ae48083b702f40",
+  resume: "https://app.luminpdf.com/viewer/65f6cc108cdf4ce7666ecdce",
   linkedin: "https://www.linkedin.com/in/mohdzaiddev/",
   twitter: "https://twitter.com/TechTinkerZaid",
 };
