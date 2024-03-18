@@ -315,7 +315,7 @@ export const projects = [
     image:
       "https://github.com/MohdZaidRapid/Portfolio/blob/main/youtube-clone-image.PNG?raw=true",
     tags: ["Reactjs", "Redux", "firebase", "javascript"],
-    category: "machine learning",
+    category: "web app",
     github: "https://github.com/MohdZaidRapid/yt-react-cl",
     webapp: "https://ytclone10.netlify.app/",
   },
@@ -327,9 +327,9 @@ export const projects = [
     image:
       "https://github.com/MohdZaidRapid/Portfolio/blob/main/youtube-clone-image.PNG?raw=true",
     tags: ["Reactjs", "Redux", "firebase", "javascript"],
-    category: "machine learning",
-    github: "https://github.com/MohdZaidRapid/yt-react-cl",
-    webapp: "https://ytclone10.netlify.app/",
+    category: "web app",
+    github: "https://github.com/mohdzaid123/githubfinder",
+    webapp: "https://githubuserfinders.netlify.app/",
   },
 ];
 // https://githubuserfinders.netlify.app/
