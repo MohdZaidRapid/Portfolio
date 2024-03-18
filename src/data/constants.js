@@ -323,13 +323,32 @@ export const projects = [
     id: 3,
     title: "github user finder",
     date: "Jan 2022 - March 2022",
-    description: " find github user profile ",
+    description: " find  user  github profile ",
     image:
-      "https://github.com/MohdZaidRapid/Portfolio/blob/main/youtube-clone-image.PNG?raw=true",
+      "https://github.com/MohdZaidRapid/Portfolio/blob/main/gihubusernamefinder.PNG?raw=true",
     tags: ["Reactjs", "Redux", "firebase", "javascript"],
     category: "web app",
     github: "https://github.com/mohdzaid123/githubfinder",
     webapp: "https://githubuserfinders.netlify.app/",
+  },
+  {
+    id: 4,
+    title: "Simple project portfolio",
+    date: "Jan 2018 - March 2020",
+    description: "  ",
+    image:
+      "https://github.com/MohdZaidRapid/Portfolio/blob/main/gihubusernamefinder.PNG?raw=true",
+    tags: [
+      "Reactjs",
+      "Redux",
+      "firebase",
+      "javascript",
+      "nodejs",
+      "tailwindCSS",
+    ],
+    category: "web app",
+    github: "https://github.com/mohdzaid123/",
+    webapp: "https://zaidportfolio.netlify.app/",
   },
 ];
 // https://githubuserfinders.netlify.app/
