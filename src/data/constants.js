@@ -319,8 +319,20 @@ export const projects = [
     github: "https://github.com/MohdZaidRapid/yt-react-cl",
     webapp: "https://ytclone10.netlify.app/",
   },
+  {
+    id: 3,
+    title: "github user finder",
+    date: "Jan 2022 - March 2022",
+    description: " find github user profile ",
+    image:
+      "https://github.com/MohdZaidRapid/Portfolio/blob/main/youtube-clone-image.PNG?raw=true",
+    tags: ["Reactjs", "Redux", "firebase", "javascript"],
+    category: "machine learning",
+    github: "https://github.com/MohdZaidRapid/yt-react-cl",
+    webapp: "https://ytclone10.netlify.app/",
+  },
 ];
-
+// https://githubuserfinders.netlify.app/
 export const TimeLineData = [
   { year: 2017, text: "Started my journey" },
   { year: 2018, text: "Worked as a freelance developer" },
