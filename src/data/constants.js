@@ -335,9 +335,9 @@ export const projects = [
     id: 4,
     title: "Simple project portfolio",
     date: "Jan 2018 - March 2020",
-    description: "  ",
+    description: " Simple Project portfolio",
     image:
-      "https://github.com/MohdZaidRapid/Portfolio/blob/main/gihubusernamefinder.PNG?raw=true",
+      "https://github.com/MohdZaidRapid/Portfolio/blob/main/portfolioold.PNG?raw=true",
     tags: [
       "Reactjs",
       "Redux",
