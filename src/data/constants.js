@@ -269,7 +269,7 @@ export const projects = [
     title: "Slabs",
     date: "Apr 2023 - May 2023",
     description:
-      "Worked on a Slabs.Spatial Labs exists to simplify and enhance people's lives by bridging the digital and physical worlds.Slabs is market place",
+      "Worked on a Slabs. Spatial Labs exists to simplify and enhance people's lives by bridging the digital and physical worlds.Slabs is market place",
     image:
       "https://pbs.twimg.com/profile_images/1712553795480334336/WmfmrxLj_400x400.jpg",
     tags: [
@@ -311,7 +311,7 @@ export const projects = [
     title: "Youtube Clone",
     date: "Jan 2024 - Present",
     description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+      "Worked on youtube clone  with ability of search videos from youtube apis . debouncing live chat infinte scrolling",
     image:
       "https://github.com/MohdZaidRapid/Portfolio/blob/main/youtube-clone-image.PNG?raw=true",
     tags: ["Reactjs", "Redux", "firebase", "javascript"],
